@@ -1,0 +1,11 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ProvaGC",
+			"request": "launch",
+			"mainClass": "model.ProvaGC",
+			"projectName": "lab2-pgc"
+		}
+	]
+}
